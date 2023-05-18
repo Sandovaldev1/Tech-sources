@@ -1,0 +1,226 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+
+li .nav-link{
+    color: aliceblue;
+}
+
+
+
+.section-one,
+.section-two{
+    text-align: center;
+}
+
+.section-one{
+    background-image: url(../img/banner1.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 450px;
+    background-position: fixed;
+}
+
+.section-one h1{
+    color: aliceblue;
+   padding-top: 150px;
+}
+
+.section-one p{
+    color: aliceblue;
+}
+.section-two{
+    color: aliceblue;
+    margin-top: 110px;
+    margin-bottom: 90px;
+}
+
+.section-two .text-container-two{
+    width: 100%;
+    padding: 10px;
+    background: #0f2027d7;
+    border-radius: 10px;
+    -webkit-box-shadow: 10px 9px 17px -4px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 9px 17px -4px rgba(0,0,0,0.75);
+    box-shadow: 10px 9px 17px -4px rgba(0,0,0,0.75);
+    font-family: 'Montserrat', sans-serif;
+}
+
+.section-three{
+    margin-top: 40px;
+    background: linear-gradient(to right, #ff0099, #493240);
+    color: aliceblue;
+    margin-bottom: 100px;
+}
+
+
+.section-three .imagen-reto1, .imagen-reto4{
+    width: 400px;
+    padding: 50px;
+}
+
+.section-three .texto-reto1, .texto-reto4{
+    margin-top: 30px;
+    text-align:left;
+    padding: 30px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.section-three a{
+    float: left;
+    background-color: transparent;
+    padding: 10px 25px 10px 25px;
+    border-color: antiquewhite;
+    color: aliceblue;
+}
+
+.section-three a:hover{
+    background-color: rgba(0, 255, 255, 0.616);
+}
+
+.section-five{
+    text-align: center;
+    margin-bottom: 80px;
+    font-family: 'Montserrat', sans-serif;
+}
+.text-section-five{
+    color: aliceblue;
+    margin-top: 50px;
+    background: #0f2027d7;
+    padding: 20px;
+    border-radius: 10px;
+    -webkit-box-shadow: 10px 9px 17px -4px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 9px 17px -4px rgba(0,0,0,0.75);
+    box-shadow: 10px 9px 17px -4px rgba(0,0,0,0.75);
+    font-family: 'Montserrat', sans-serif;
+}
+.section-five .iconos{
+    margin-top: 40px;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+ .services{
+    margin-top: 30px;
+    font-weight: bold;
+}
+.iconos i{
+color: aliceblue;
+ background-color: rgb(9, 90, 145);
+ padding: 20px;
+}
+.team-section{
+    margin-top: 100px;
+    margin-bottom: 90px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.team-section h2{
+    font-weight: bold;
+}
+
+.btn-team{
+    padding: 5px;
+    margin-bottom: 15px;
+}
+
+.section-apply{
+    margin-top: 150px;
+    background: linear-gradient(to right, #667db6, #0082c8, #0082c8, #667db6);
+    color: aliceblue;
+    margin-bottom: 350px;
+    -webkit-box-shadow: 10px 9px 17px -4px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 9px 17px -4px rgba(0,0,0,0.75);
+    box-shadow: 10px 9px 17px -4px rgba(0,0,0,0.75);
+}
+
+.section-apply i{
+    color: rgba(8, 204, 24, 0.863);
+}
+
+.section-apply h3{
+    font-weight: bold;
+}
+
+.section-apply a:hover{
+    background-color: rgba(8, 204, 24, 0.616);
+}
+
+.section-apply a{
+    justify-content: center;
+    display: flex;
+    background-color: transparent;
+    padding: 10px 15px 10px 15px;
+    border-color: antiquewhite;
+    color: aliceblue;
+}
+
+.section-services-banner{
+    background-image: url(../img/banner2.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 450px;
+    background-position: fixed;
+    text-align: center;
+}
+.section-services-banner h1{
+    color: aliceblue;
+   padding-top: 150px;
+}
+
+.section-services-banner p{
+    color: aliceblue;
+}
+.section-our-services{
+margin-bottom: 100px;
+}
+
+.section-our-services p{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: lighter;
+}
+
+.section-our-services h2{
+    margin-top: 35px;
+    margin-bottom: 25px;
+    text-align: center;
+}
+
+
+.colum-1{
+    background: linear-gradient(to right, #141e30, #243b55);
+    text-align: center;
+    color: aliceblue;
+    margin-top: 10px;
+    padding: 70px;
+    font-weight: bold;
+    font-size: medium;
+    max-height: 270px;
+}
+
+.notfound-section{
+    margin-top: 100px;
+    text-align: center;
+    margin-bottom: 200px;
+}
+
+
+footer{
+    margin-top: 30px;
+    background-color: rgb(37, 37, 37);
+    padding: 60px;
+}
+
+footer .derechos{
+    color: aliceblue;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bolder;
+    padding: 2px;
+}
+
