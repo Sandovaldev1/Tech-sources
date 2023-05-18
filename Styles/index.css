@@ -17,7 +17,7 @@ li .nav-link{
 }
 
 .section-one{
-    background-image: url(../img/banner1.jpeg);
+    background-image: url(../Img/banner1.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -160,7 +160,7 @@ color: aliceblue;
 }
 
 .section-services-banner{
-    background-image: url(../img/banner2.jpeg);
+    background-image: url(../Img/banner2.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
